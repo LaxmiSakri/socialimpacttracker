@@ -3,7 +3,11 @@ private static void listAllEvents() {
         for (String event : events) {
             System.out.println(event);
         }
+
+
     }
+
+
 
     private static void addEventDescription() {
         System.out.print("Enter the name of the event: ");
